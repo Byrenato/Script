@@ -11363,7 +11363,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "Sla Hub",
+    Name = "Renato hub",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://119980140458596",
     Time = 5
